@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1555310811 source:c:\users\33659\desktop\taf\c++\vehiclecpp\car.cpp
+	<iostream>
+	"car.h"
+
+1555310811 c:\users\33659\desktop\taf\c++\vehiclecpp\car.h
+	"ivehicle.h"
+
+1555310811 c:\users\33659\desktop\taf\c++\vehiclecpp\ivehicle.h
+
+1555310811 source:c:\users\33659\desktop\taf\c++\vehiclecpp\ivehicle.cpp
+	"ivehicle.h"
+	<iostream>
+
+1586630118 source:c:\users\33659\desktop\taf\c++\vehiclecpp\main.cpp
+	"car.h"
+	"ivehicle.h"
+	"moto.h"
+	<iostream>
+	<vector>
+
+1555310811 c:\users\33659\desktop\taf\c++\vehiclecpp\moto.h
+	"ivehicle.h"
+
+1555310811 source:c:\users\33659\desktop\taf\c++\vehiclecpp\moto.cpp
+	<iostream>
+	"moto.h"
+
